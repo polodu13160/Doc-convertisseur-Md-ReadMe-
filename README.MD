@@ -69,7 +69,7 @@ Ce script vous permet de transformer n'importe quel fichier exécutable en une c
 
 Si vous voulez transformer un script Python `convert_html_to_md.py` situé dans `~/Documents` en une commande `converthtmltomd`, voici le processus :
 
-- Entrez le chemin : `/home/votre_utilisateur/Documents/convert_html_to_md.py`.
+- Entrez le chemin : Exemple : `/home/votre_utilisateur/Documents/convert_html_to_md.py`.
 - Entrez le nom de l'exécutable : `converthtmltomd`.
 - Entrez le nom de l'alias : `converthtmltomd`.
 
