@@ -34,5 +34,3 @@ Ce script effectue la conversion d'un fichier HTML (exporté depuis un autre for
 6. Le script prend en charge les images locales (encodées en base64) et les images externes en les téléchargeant et en les référençant correctement dans le Markdown généré.
 
 ---
-
-Si vous souhaitez des modifications spécifiques, veuillez me l'indiquer.
