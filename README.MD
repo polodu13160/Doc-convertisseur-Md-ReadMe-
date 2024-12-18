@@ -1,7 +1,3 @@
-Voici le contenu actuel de votre fichier README.MD :
-
----
-
 Ce script effectue la conversion d'un fichier HTML (exporté depuis un autre format comme .odt) en un fichier Markdown tout en téléchargeant les images contenues dans le HTML et en les sauvegardant localement.
 
 1. **Exporter le fichier en HTML** : Avant d'exécuter le script, exportez votre fichier dans un format HTML à partir de votre éditeur ou application (par exemple, LibreOffice, OpenOffice, etc.).
